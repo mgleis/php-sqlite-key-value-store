@@ -1,7 +1,7 @@
 {
     "name": "mgleis/php-sqlite-key-value-store",
     "description": "A PHP library that implements a key/value store with SQLite as the persistence layer.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "autoload": {
@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "php": ">=8.3"
+        "php": ">=7.4"
     }
 }
